@@ -1,0 +1,189 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Arac World Calendar",
+      "description": null,
+      "static": {
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Aqiel",
+            "id": "ID_0a5a584b4bea"
+          },
+          {
+            "type": "day",
+            "name": "Saros",
+            "id": "ID_f96a0afa4978"
+          },
+          {
+            "type": "day",
+            "name": "Anumm",
+            "id": "ID_79b96848a888"
+          },
+          {
+            "type": "day",
+            "name": "Baniel",
+            "id": "ID_297949a86a89"
+          },
+          {
+            "type": "day",
+            "name": "Rixa",
+            "id": "ID_1ac869c8a9d9"
+          },
+          {
+            "type": "day",
+            "name": "Vadits",
+            "id": "ID_ca4849db1b89"
+          },
+          {
+            "type": "day",
+            "name": "Dreos",
+            "id": "ID_fa3b289b797b"
+          }
+        ],
+        "months": [
+          {
+            "name": "Sielyr",
+            "type": "month",
+            "length": 31,
+            "id": "ID_7acaa9a88a59"
+          },
+          {
+            "name": "Illyrie",
+            "type": "month",
+            "length": 28,
+            "id": "ID_fa7afb9ada19"
+          },
+          {
+            "name": "Penael",
+            "type": "month",
+            "length": 31,
+            "id": "ID_8b0bc84929ea"
+          },
+          {
+            "name": "Amael",
+            "type": "month",
+            "length": 30,
+            "id": "ID_5b39792bb92b"
+          },
+          {
+            "name": "Aphiel",
+            "type": "month",
+            "length": 31,
+            "id": "ID_2a8be9d93898"
+          },
+          {
+            "name": "Hielaph",
+            "type": "month",
+            "length": 30,
+            "id": "ID_0ac97bcbb96a"
+          },
+          {
+            "name": "Aziel",
+            "type": "month",
+            "length": 31,
+            "id": "ID_9aeb0afadb9b"
+          },
+          {
+            "name": "Kyihr",
+            "type": "month",
+            "length": 30,
+            "id": "ID_68e94a5a3b69"
+          },
+          {
+            "name": "Ekims",
+            "type": "month",
+            "length": 31,
+            "id": "ID_ab8a18abd9e9"
+          },
+          {
+            "name": "Truehm",
+            "type": "month",
+            "length": 30,
+            "id": "ID_59796b0a7a6b"
+          },
+          {
+            "name": "Jutimm",
+            "type": "month",
+            "length": 31,
+            "id": "ID_ba8a7bcb7b99"
+          },
+          {
+            "name": "Olxis",
+            "type": "month",
+            "length": 31,
+            "id": "ID_f8ba0a08dbf8"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Nion",
+            "cycle": 30,
+            "offset": 0,
+            "faceColor": "#bc0000",
+            "shadowColor": "#292b4a",
+            "id": "ID_a85bb92bcaca"
+          },
+          {
+            "name": "Exolla",
+            "cycle": 30,
+            "offset": "15",
+            "faceColor": "#1788de",
+            "shadowColor": "#292b4a",
+            "id": "ID_aa78097bca29"
+          },
+          {
+            "name": "Hulara",
+            "cycle": 90,
+            "offset": "12",
+            "faceColor": "#91c3a1",
+            "shadowColor": "#292b4a",
+            "id": "ID_e9699a791b0a"
+          }
+        ],
+        "leapDays": [],
+        "eras": [],
+        "displayMoons": true,
+        "incrementDay": false,
+        "displayDayNumber": true
+      },
+      "current": {
+        "year": 4228,
+        "day": 15,
+        "month": 8
+      },
+      "events": [],
+      "id": "ID_88bada0b0bd9",
+      "categories": [],
+      "displayWeeks": false
+    }
+  ],
+  "configDirectory": null,
+  "currentCalendar": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_88bada0b0bd9",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "settingsToggleState": {
+    "calendars": true,
+    "events": false,
+    "advanced": true
+  },
+  "showIntercalary": true,
+  "version": {
+    "major": null,
+    "minor": null,
+    "patch": null
+  },
+  "debug": false
+}

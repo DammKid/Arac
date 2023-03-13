@@ -1,0 +1,242 @@
+{
+  "mapMarkers": [
+    {
+      "id": "Arac World Map",
+      "lastAccessed": 1675353094285,
+      "markers": [
+        {
+          "id": "ID_7be91878c959",
+          "type": "default",
+          "loc": [
+            -6.4293705224990845,
+            6.33409571647644
+          ],
+          "link": "Scarwood Keep",
+          "layer": "%5B%5BAracworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Capital Of Drakengard",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ebaa4b48cb2a",
+          "type": "default",
+          "loc": [
+            -6.7145267724990845,
+            5.68175196647644
+          ],
+          "link": "Brackhill",
+          "layer": "%5B%5BAracworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_88698be99b7b",
+          "type": "default",
+          "loc": [
+            -7.2496830224990845,
+            6.26768946647644
+          ],
+          "link": "Cloveshire",
+          "layer": "%5B%5BAracworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9929d89a1929",
+          "type": "default",
+          "loc": [
+            -7.1559330224990845,
+            6.06456446647644
+          ],
+          "layer": "%5B%5BAracworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b889ad8dacb",
+          "type": "default",
+          "loc": [
+            -6.1442142724990845,
+            5.99815821647644
+          ],
+          "link": "Dark Vault Prison",
+          "layer": "%5B%5BAracworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89baaa29f878",
+          "type": "default",
+          "loc": [
+            -6.3981205224990845,
+            5.80284571647644
+          ],
+          "link": "Aebarrow",
+          "layer": "%5B%5BAracworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e91a696bf9a9",
+          "type": "default",
+          "loc": [
+            -6.5543705224990845,
+            5.77550196647644
+          ],
+          "link": "Veiled Tower",
+          "layer": "%5B%5BAracworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9bab8eba889",
+          "type": "default",
+          "loc": [
+            -6.866195321083069,
+            5.843388080596924
+          ],
+          "link": "Bal Thurim",
+          "layer": "%5B%5BAracworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_981bf9eb1a9a",
+          "type": "default",
+          "loc": [
+            -6.881820321083069,
+            6.198856830596924
+          ],
+          "link": "Tharfield",
+          "layer": "%5B%5BAracworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "World/Maps/Arac World Map.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "5.2.6",
+  "version": {
+    "major": 5,
+    "minor": 2,
+    "patch": 6
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[Aracworld.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Aracworld.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [
+      "default, 39.983334, -82.983330, [[Note]]"
+    ],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 6,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "Arac World Map",
+    "lat": 50,
+    "long": 50,
+    "unit": "meters",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>."
+}

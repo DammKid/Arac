@@ -1,0 +1,8 @@
+Born in 4208 and raised as ward of the church since he was a baby, Caduceus has found a deep spiritual connection with Casaethon’s teachings and dogma. The Protector’s Pride did its best to let the young boy spread his wings and fly. Gifted with magical and medicinal knowledge far beyond his years and instilled with a deep sense of community, Caduceus firmly believes that no one should be deprived access to basic medical care and warm shelter. Everyone is welcome within the healing warmth of the The Protector’s flame.
+
+When Caduceus turned 15, he decided to offer his magical and medicinal talents to the Scarwood Guardian Division. As the boy grew into a teenager, he became more aware of the greater suffering plaguing his home. Caduceus knew that he could no longer wait for the wounded to come to him, but he had to go to the wounded, make sure they get the chance to return to the warmth of their own hearths.
+
+In 4228, when the war stuck, Top League of Iron brass came to the conclusion that if anyone could keep a unit of their soldiers alive, it was Caduceus. With his extensive decorated service with the SGD, the rank of Corporal was thrust upon the now young man.
+
+
+Leaving home for the first time to face the unfounded horrors of warfare, Caduceus fervently clings to his faith in The Protector. No matter what awaits him and his new unit, he had made a vow to a much higher force, higher even than the League of Iron itself, that each one of them will return to Scarwood Keep safely.

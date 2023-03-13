@@ -1,0 +1,24 @@
+# [Elite Tempest-Sun Mage](https://2e.aonprd.com/NPCs.aspx?ID=972)Creature 11
+
+[NG](https://2e.aonprd.com/Rules.aspx?ID=95) [Medium](https://2e.aonprd.com/Rules.aspx?ID=445) [Human](https://2e.aonprd.com/Traits.aspx?ID=90) [Humanoid](https://2e.aonprd.com/Traits.aspx?ID=91)   
+**Source** [_Character Guide pg. 125_](https://2e.aonprd.com/Sources.aspx?ID=12) [2.0](https://2e.aonprd.com/Sources.aspx?ID=12)  
+**Perception** +**20**  
+**Languages** [Common](https://2e.aonprd.com/Languages.aspx?ID=1), [Mwangi](https://2e.aonprd.com/Languages.aspx?ID=39)  
+**Skills** [Acrobatics](https://2e.aonprd.com/Skills.aspx?ID=1) +**20**, [Arcana](https://2e.aonprd.com/Skills.aspx?ID=2) +**25**, [Diplomacy](https://2e.aonprd.com/Skills.aspx?ID=6) +**18**, [Intimidation](https://2e.aonprd.com/Skills.aspx?ID=7) +**18**, [Magaambya Lore](https://2e.aonprd.com/Skills.aspx?ID=8) +**25**, [Medicine](https://2e.aonprd.com/Skills.aspx?ID=9) +**21**, [Nature](https://2e.aonprd.com/Skills.aspx?ID=10) +**23**, [Survival](https://2e.aonprd.com/Skills.aspx?ID=16) +**23**  
+**Str** +0, **Dex** +4, **Con** +3, **Int** +5, **Wis** +3, **Cha** +1  
+mask, _[staff of abjuration](https://2e.aonprd.com/Equipment.aspx?ID=351)_  
+**Items** [_+1 crossbow_ (20 bolts)](https://2e.aonprd.com/Weapons.aspx?ID=67), [_+1 explorer's clothing_](https://2e.aonprd.com/Armor.aspx?ID=2), [_lesser healing potion_](https://2e.aonprd.com/Equipment.aspx?ID=186), [_staff of abjuration_](https://2e.aonprd.com/Equipment.aspx?ID=351), Magaambya mask
+
+---
+
+**AC** **30**; **Fort** +**21**, **Ref** +**22**, **Will** +**23**  
+**HP** **165**
+
+---
+
+**Speed** 30 feet  
+**Melee**  _staff of abjuration_ +**18** [[+13/+8](https://2e.aonprd.com/Rules.aspx?ID=322)] ([two-hand d8](https://2e.aonprd.com/Traits.aspx?ID=198)), **Damage** 1d4**+2**+2 bludgeoning
+**Ranged**  _crossbow_ +**22** [[+17/+12](https://2e.aonprd.com/Rules.aspx?ID=322)] ([range increment 120 feet](https://2e.aonprd.com/Traits.aspx?ID=248), [reload 1](https://2e.aonprd.com/Traits.aspx?ID=254)), **Damage** 1d8**+2**+2 piercing
+**Arcane Prepared Spells** DC **32**, attack +20 (**+4 dmg**); **6th** _[chain lightning](https://2e.aonprd.com/Spells.aspx?ID=33)_, _[elemental form](https://2e.aonprd.com/Spells.aspx?ID=98)_, _[tangling creepers](https://2e.aonprd.com/Spells.aspx?ID=331)_; **5th** _[cone of cold](https://2e.aonprd.com/Spells.aspx?ID=47)_, _[fireball](https://2e.aonprd.com/Spells.aspx?ID=119)_, _[sending](https://2e.aonprd.com/Spells.aspx?ID=272)_, _[wall of stone](https://2e.aonprd.com/Spells.aspx?ID=365)_; **4th** _[dimension door](https://2e.aonprd.com/Spells.aspx?ID=69)_, _[fly](https://2e.aonprd.com/Spells.aspx?ID=125)_, _[freedom of movement](https://2e.aonprd.com/Spells.aspx?ID=128)_, _[wall of fire](https://2e.aonprd.com/Spells.aspx?ID=362)_; **3rd** _[haste](https://2e.aonprd.com/Spells.aspx?ID=147)_, _[mind reading](https://2e.aonprd.com/Spells.aspx?ID=194)_, _[slow](https://2e.aonprd.com/Spells.aspx?ID=289)_, _[stinking cloud](https://2e.aonprd.com/Spells.aspx?ID=309)_; **2nd** _[endure elements](https://2e.aonprd.com/Spells.aspx?ID=99)_, _[false life](https://2e.aonprd.com/Spells.aspx?ID=108)_, _[obscuring mist](https://2e.aonprd.com/Spells.aspx?ID=210)_, _[see invisibility](https://2e.aonprd.com/Spells.aspx?ID=271)_; **1st** _[create water](https://2e.aonprd.com/Spells.aspx?ID=53)_, _[fleet step](https://2e.aonprd.com/Spells.aspx?ID=122)_, _[gust of wind](https://2e.aonprd.com/Spells.aspx?ID=143)_, _[unseen servant](https://2e.aonprd.com/Spells.aspx?ID=352)_; **Cantrips** **(6th)** _[detect magic](https://2e.aonprd.com/Spells.aspx?ID=66)_, _[light](https://2e.aonprd.com/Spells.aspx?ID=171)_, _[mage hand](https://2e.aonprd.com/Spells.aspx?ID=177)_, _[produce flame](https://2e.aonprd.com/Spells.aspx?ID=236)_, _[tanglefoot](https://2e.aonprd.com/Spells.aspx?ID=330)_  
+**Wizard School Spells** DC **32**, 2 Focus Points (**+4 dmg**); **6th** _[elemental tempest](https://2e.aonprd.com/Spells.aspx?ID=527)_, _[force bolt](https://2e.aonprd.com/Spells.aspx?ID=529)_  
+**Mask Bond**  ([arcane](https://2e.aonprd.com/Traits.aspx?ID=11)) **Frequency** once per day; **Trigger** The Tempest-Sun Mage has not acted yet on their turn; **Effect** The Tempest-Sun Mage expends the power stored in their bonded item, which is their mask. This gives them the ability to cast one spell they prepared today and already cast, without spending a spell slot. They must still Cast the Spell and meet the spell's other requirements.**Reach Spell**  ([concentrate](https://2e.aonprd.com/Traits.aspx?ID=32), [metamagic](https://2e.aonprd.com/Traits.aspx?ID=107)) If the next action the Tempest-Sun Mage uses is to Cast a Spell that has a range, increase that spell's range by 30 feet. As is standard for increasing spell ranges, if the spell normally has a range of touch, extend its range to 30 feet.

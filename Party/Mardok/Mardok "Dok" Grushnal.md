@@ -1,0 +1,1 @@
+![[Mardok “Dok” Grushnal.jpeg]]

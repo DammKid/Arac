@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "zz_Attachments",
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "livePreview": false,
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "trashOption": "none"
+}

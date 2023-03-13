@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "0626f89289b6ef24",
+    "type": "split",
+    "children": [
+      {
+        "id": "f74f0726d5668fac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c4210401d5a3147",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "GM Screen/GM Screen.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2d9cc0b4559d168",
+    "type": "split",
+    "children": [
+      {
+        "id": "e725880a65c62723",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2705a89e02386ef2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "165f2525a900e3a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e7c27a09d198a818",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "07cd001e3cc59f11",
+    "type": "split",
+    "children": [
+      {
+        "id": "01fd4c7f036b7a0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e679f2a1dbcd110d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GM Screen/GM Screen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a826a16681e01ca0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GM Screen/GM Screen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a56bc1b4fdca2df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "277ae5de6859c483",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GM Screen/GM Screen.md"
+              }
+            }
+          },
+          {
+            "id": "b72954dcb0983b1e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "697c47c45096b256",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "1a5d92f90c36bad2",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "cf3849fab0840ae8",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "digitalgarden:Digital Garden Publication Center": false
+    }
+  },
+  "active": "6c4210401d5a3147",
+  "lastOpenFiles": [
+    "Astaphium Similis.md",
+    "GM Screen/GM Screen.md",
+    "\"A Duty to the Dead\"/The Dead Owlbears.md",
+    "\"A Duty to the Dead\"/Sessions/Session 1 Encounters.md",
+    "Party/Animos/Animos Backstory.md",
+    "Party/Animos/Animos Stagirite.md",
+    "\"A Duty to the Dead\"/L.o.I or League of Iron or The Amphorics.md",
+    "World/Gods & Goddess'/Casaethon.md",
+    "World/Gods & Goddess'/The Ferryman.md",
+    "\"A Duty to the Dead\"/NPC's/Jerome Jacobi.md"
+  ]
+}
